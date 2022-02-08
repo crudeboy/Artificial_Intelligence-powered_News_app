@@ -1,3 +1,8 @@
+[LIVE APP](https://alan-ai-newz-app.netlify.app/)
+
+![](images/alan_ai_web_pic.png)
+
+
 # Artificial_Intelligence-powered_News_app
 Implementation of Alan AI to help users get th elatest news on varios topics from various news bodies using voice requests.
 
